@@ -1,5 +1,16 @@
 # CLIPCoder Project
 
+Download COCO val2017 data: [[link]](http://images.cocodataset.org/zips/val2017.zip)
+
+Unzip and put the `val2017` directory it in the `data` directory under subdirectory `COCO`, i.e.
+```
+data
+    | COCO
+        | val2017
+    | examples
+```
+
+
 For the learning project part, run:
 
 ```
